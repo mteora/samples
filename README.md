@@ -2,5 +2,5 @@
 Some examples while learning to use GeoData Sciences tools
 
 
-**Warning** 
+**Warning:** 
 **I'm a learner, so, keep in mind that**!
