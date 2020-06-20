@@ -3,4 +3,4 @@ Some examples while learning to use GeoData Sciences tools
 
 
 **Warning:** 
-**I'm a learner, so, keep in mind that**!
+**I'm learning, so, keep in mind that**!
